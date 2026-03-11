@@ -1,0 +1,10 @@
+# HTTP & API
+requests==2.31.0
+groq==0.9.0
+
+# CLI Colors & Output
+rich==13.7.0
+colorama==0.4.6
+
+# Environment
+python-dotenv==1.0.0
